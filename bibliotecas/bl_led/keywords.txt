@@ -1,0 +1,8 @@
+bl_led		KEYWORD1
+
+bl_l		KEYWORD2
+ligar		KEYWORD2
+desligar	KEYWORD2
+acender_t	KEYWORD2
+apagar_t	KEYWORD2
+p		KEYWORD2
