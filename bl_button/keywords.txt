@@ -2,3 +2,5 @@ bl_button	KEYWORD1
 bl_but	KEYWORD2
 clique	KEWYWORD2
 getStateButton	KEYWORD2
+but_main	KEYWORD2
+mult_func	KEYWORD2

@@ -25,4 +25,14 @@ class bl_but{
     
 };
 
+class but_main{
+  public:
+  but_main(int pin);
+  byte mult_func(const int temp);
+  
+
+  private:
+  int _pin;
+};
+
 #endif
