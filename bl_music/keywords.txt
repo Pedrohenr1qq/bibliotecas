@@ -1,0 +1,5 @@
+bl_music	KEYWORD1
+buz_music	KEYWORD2
+play_freq	KEYWORD2
+play_esc	KEYWORD2
+play_note	KEYWORD2
